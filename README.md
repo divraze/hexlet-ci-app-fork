@@ -1,3 +1,5 @@
+[![show-directory](https://github.com/divraze/hexlet-ci-app-fork/actions/workflows/show-directory.yml/badge.svg)](https://github.com/divraze/hexlet-ci-app-fork/actions/workflows/show-directory.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
